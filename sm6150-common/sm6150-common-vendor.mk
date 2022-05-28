@@ -255,7 +255,6 @@ PRODUCT_PACKAGES += \
     libnetmgr_nr_fusion \
     libnetmgr_rmnet_ext \
     libnlnetmgr \
-    liboemcrypto \
     libops \
     libpdmapper \
     libpdnotifier \
